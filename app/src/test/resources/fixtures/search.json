@@ -1,0 +1,123 @@
+{
+  "weak": false,
+  "results": [
+    {
+      "vid": "kL8mN0oP2qR",
+      "title": "Sample Guide: Ownership Without Tears",
+      "channel": "Example Channel Five",
+      "published": "2022-03-01T12:00:00Z",
+      "duration_s": 3308,
+      "views": 12345,
+      "likes": 308,
+      "thumbnail": "https://i.ytimg.com/vi/kL8mN0oP2qR/mqdefault.jpg",
+      "summary": "An invented sample summary for Sample Guide: Ownership Without Tears.",
+      "why_hn": "An invented sample reason why it is recommended.",
+      "content_type": "talk",
+      "level": "general",
+      "shelf_life": "evergreen",
+      "primary_topic": "sample topic",
+      "tags": [
+        "sample",
+        "invented"
+      ],
+      "categories": [
+        {
+          "id": "example-systems",
+          "name": "Example systems topics",
+          "description": "Invented category used in test samples.",
+          "area": "example-software",
+          "area_name": "Example Software"
+        }
+      ],
+      "quote": {
+        "text": "An invented comment about this video.",
+        "id": 1000001,
+        "year": "2024"
+      },
+      "hn": {
+        "mentions": 3,
+        "recommenders": 2,
+        "stances": {
+          "reference": 1,
+          "rec": 2
+        },
+        "rec_months": 2,
+        "strong": 0,
+        "first": "2020",
+        "last": "2024",
+        "last_rec": "2024-01"
+      },
+      "score": 2.5,
+      "whys": [
+        "Invented reason one.",
+        "Invented reason two."
+      ],
+      "hn_related": [
+        [
+          "Zz0Sample001",
+          1
+        ]
+      ],
+      "relevance": 0.27,
+      "via": null
+    },
+    {
+      "vid": "aB3dE5fG7hI",
+      "title": "Sample Talk: Building Tiny Compilers",
+      "channel": "Example Channel One",
+      "published": "2019-05-09T16:21:41Z",
+      "duration_s": 1492,
+      "views": 366670,
+      "likes": 9166,
+      "thumbnail": "https://i.ytimg.com/vi/aB3dE5fG7hI/mqdefault.jpg",
+      "summary": "An invented sample summary for Sample Talk: Building Tiny Compilers.",
+      "why_hn": "An invented sample reason why it is recommended.",
+      "content_type": "talk",
+      "level": "general",
+      "shelf_life": "evergreen",
+      "primary_topic": "sample topic",
+      "tags": [
+        "sample",
+        "invented"
+      ],
+      "categories": [
+        {
+          "id": "example-systems",
+          "name": "Example systems topics",
+          "description": "Invented category used in test samples.",
+          "area": "example-software",
+          "area_name": "Example Software"
+        }
+      ],
+      "quote": {
+        "text": "An invented comment about this video.",
+        "id": 1000001,
+        "year": "2024"
+      },
+      "hn": {
+        "mentions": 3,
+        "recommenders": 2,
+        "stances": {
+          "reference": 1,
+          "rec": 2
+        },
+        "rec_months": 2,
+        "strong": 0,
+        "first": "2020",
+        "last": "2024",
+        "last_rec": "2024-01"
+      },
+      "score": 2.5,
+      "whys": [
+        "Invented reason one.",
+        "Invented reason two."
+      ],
+      "hn_related": [
+        [
+          "Zz0Sample001",
+          1
+        ]
+      ]
+    }
+  ]
+}

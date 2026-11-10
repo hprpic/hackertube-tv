@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "sample-starter-list",
+    "title": "Sample starter list",
+    "pitch": "An invented collection for tests.",
+    "kind": "start",
+    "tier": "start",
+    "minutes": 57,
+    "count": 3,
+    "cover": [
+      "aB3dE5fG7hI",
+      "cD4eF6gH8iJ",
+      "eF5gH7iJ9kL",
+      "gH6iJ8kL0mN"
+    ]
+  },
+  {
+    "slug": "sample-deep-dive",
+    "title": "Sample deep dive",
+    "pitch": "Another invented collection for tests.",
+    "kind": "deep",
+    "tier": "deep",
+    "minutes": 120,
+    "count": 2,
+    "cover": [
+      "eF5gH7iJ9kL",
+      "aB3dE5fG7hI",
+      "cD4eF6gH8iJ",
+      "gH6iJ8kL0mN"
+    ]
+  }
+]

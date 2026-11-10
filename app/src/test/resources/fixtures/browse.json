@@ -1,0 +1,53 @@
+[
+  {
+    "id": "example-software",
+    "name": "Example Software",
+    "count": 120,
+    "categories": [
+      {
+        "id": "example-systems",
+        "name": "Example systems topics",
+        "count": 70
+      },
+      {
+        "id": "example-web",
+        "name": "Example web topics",
+        "count": 50
+      }
+    ]
+  },
+  {
+    "id": "example-ideas",
+    "name": "Example Ideas",
+    "count": 90,
+    "categories": [
+      {
+        "id": "example-learning",
+        "name": "Example learning topics",
+        "count": 55
+      },
+      {
+        "id": "example-history",
+        "name": "Example history topics",
+        "count": 35
+      },
+      {
+        "id": "example-writing",
+        "name": "Example writing topics",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "id": "example-devices",
+    "name": "Example Devices",
+    "count": 40,
+    "categories": [
+      {
+        "id": "example-hardware",
+        "name": "Example hardware topics",
+        "count": 40
+      }
+    ]
+  }
+]

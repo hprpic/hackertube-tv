@@ -1,0 +1,118 @@
+[
+  {
+    "vid": "eF5gH7iJ9kL",
+    "title": "Sample Documentary: Inside a Chip Factory",
+    "channel": "Example Channel Three",
+    "published": "2012-08-02T17:03:45Z",
+    "duration_s": 3680,
+    "views": 208862,
+    "likes": 5221,
+    "thumbnail": "https://i.ytimg.com/vi/eF5gH7iJ9kL/mqdefault.jpg",
+    "summary": "An invented sample summary for Sample Documentary: Inside a Chip Factory.",
+    "why_hn": "An invented sample reason why it is recommended.",
+    "content_type": "talk",
+    "level": "general",
+    "shelf_life": "evergreen",
+    "primary_topic": "sample topic",
+    "tags": [
+      "sample",
+      "invented"
+    ],
+    "categories": [
+      {
+        "id": "example-hardware",
+        "name": "Example hardware topics",
+        "description": "Invented category used in test samples.",
+        "area": "example-devices",
+        "area_name": "Example Devices"
+      }
+    ],
+    "quote": {
+      "text": "An invented comment about this video.",
+      "id": 1000001,
+      "year": "2024"
+    },
+    "hn": {
+      "mentions": 3,
+      "recommenders": 2,
+      "stances": {
+        "reference": 1,
+        "rec": 2
+      },
+      "rec_months": 2,
+      "strong": 0,
+      "first": "2020",
+      "last": "2024",
+      "last_rec": "2024-01"
+    },
+    "score": 2.5,
+    "whys": [
+      "Invented reason one.",
+      "Invented reason two."
+    ],
+    "hn_related": [
+      [
+        "Zz0Sample001",
+        1
+      ]
+    ]
+  },
+  {
+    "vid": "iJ7kL9mN1oP",
+    "title": "Sample Seminar: Seven Hour Systems Course",
+    "channel": "Example Channel Four",
+    "published": "2021-11-20T09:00:00Z",
+    "duration_s": 25200,
+    "views": 90210,
+    "likes": 2255,
+    "thumbnail": "https://i.ytimg.com/vi/iJ7kL9mN1oP/mqdefault.jpg",
+    "summary": "An invented sample summary for Sample Seminar: Seven Hour Systems Course.",
+    "why_hn": "An invented sample reason why it is recommended.",
+    "content_type": "talk",
+    "level": "general",
+    "shelf_life": "evergreen",
+    "primary_topic": "sample topic",
+    "tags": [
+      "sample",
+      "invented"
+    ],
+    "categories": [
+      {
+        "id": "example-systems",
+        "name": "Example systems topics",
+        "description": "Invented category used in test samples.",
+        "area": "example-software",
+        "area_name": "Example Software"
+      }
+    ],
+    "quote": {
+      "text": "An invented comment about this video.",
+      "id": 1000001,
+      "year": "2024"
+    },
+    "hn": {
+      "mentions": 3,
+      "recommenders": 2,
+      "stances": {
+        "reference": 1,
+        "rec": 2
+      },
+      "rec_months": 2,
+      "strong": 0,
+      "first": "2020",
+      "last": "2024",
+      "last_rec": "2024-01"
+    },
+    "score": 2.5,
+    "whys": [
+      "Invented reason one.",
+      "Invented reason two."
+    ],
+    "hn_related": [
+      [
+        "Zz0Sample001",
+        1
+      ]
+    ]
+  }
+]

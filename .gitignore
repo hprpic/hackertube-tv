@@ -1,0 +1,25 @@
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+.superpowers/
+.idea/
+*.iml
+.DS_Store
+
+# iCloud Drive conflict copies such as "File 2.kt"
+* [0-9].*
+* [0-9]
+
+# TV screenshots taken during checks
+screenshots/
+
+# Private material that must never be published
+signing/
+local.properties
+*.jks
+keystore.properties
+.superpowers/
+screenshots/
+CLAUDE.md
